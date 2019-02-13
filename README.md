@@ -3,7 +3,7 @@ Simple repository for study Git.
 ## Introduction
 This is example is to show different parts of Git repo... 
 ## Purpose
-Git traning
+Git study
 ## Deployment
 
 ## How to contribute 
