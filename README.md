@@ -1,6 +1,4 @@
 # git-study
-## copyright
-  MIT 2019
 
 Simple repository for study Git.
 ## Introduction
@@ -9,4 +7,7 @@ This is example is to show different parts of Git repo...
 Git study
 ## Deployment
 
-## How to contribute 
+## How to contribute
+ 
+## copyright
+  MIT 2019
