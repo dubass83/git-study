@@ -8,6 +8,6 @@ Git study
 ## Deployment
 
 ## How to contribute
- 
+First fork, then make make PR
 ## copyright
   MIT 2019
